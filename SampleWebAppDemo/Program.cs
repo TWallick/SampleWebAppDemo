@@ -14,6 +14,7 @@ namespace SampleWebAppDemo
     {
         public static void Main(string[] args)
         {
+            //test
             CreateWebHostBuilder(args).Build().Run();
         }
 
